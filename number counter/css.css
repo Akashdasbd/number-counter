@@ -1,0 +1,11 @@
+.procasbar {
+    width: 100%;
+    height: 20px;
+    background: rebeccapurple;
+    border-radius: 100px;
+}
+
+.procasbar-boder {
+    border: 2px solid rebeccapurple;
+    border-radius: 100px;
+}
